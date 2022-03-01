@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Disputatio juridica, de rebus auctoritate judicis possidendis seu vendendis; quam divino annuente numine, / ex auctoritate clarissimi consultissimiq; viri, D.D. Hugonis Dalrymple ... necnon ... Guilielmus Hall ...</title>
+            <author>Dalrymple, Hugh, d. 1741</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03738</idno>
+            <idno type="STC">Wing H445A</idno>
+            <idno type="STC">ESTC R177808</idno>
+            <idno type="EEBO-CITATION">47012468</idno>
+            <idno type="OCLC">ocm 47012468</idno>
+            <idno type="VID">174434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174434)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2688:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Disputatio juridica, de rebus auctoritate judicis possidendis seu vendendis; quam divino annuente numine, / ex auctoritate clarissimi consultissimiq; viri, D.D. Hugonis Dalrymple ... necnon ... Guilielmus Hall ...</title>
+                  <author>Dalrymple, Hugh, d. 1741</author>
+                  <author>Hall, William, fl. 1656-1672.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Ex typographœo Georgii Mosman.,</publisher>
+                  <pubPlace>Edinburgi, :</pubPlace>
+                  <date>M. DC. XCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inheritance and succession --  Scotland --  Early works to 1800.</term>
+               <term>Personal property --  Scotland --  Early works to 1800.</term>
+               <term>Acquisition of property --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174434:1"/>
+            <!-- PDF PAGE 123 -->
+            <p>
+               <hi>DISP<g ref="char:V">Ʋ</g>TATIO J<g ref="char:V">Ʋ</g>RIDICA,</hi> DE Rebus auctoritate Judicis Poſſidendis ſeu Vendendis; QUAM Divino Annuente Numine,</p>
+            <p>Ex Auctor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate CLARISSIMI CONSULTISSIMI<expan>
+                  <am>
+                     <g ref="char:abQUE"/>
+                  </am>
+                  <ex>QUE</ex>
+               </expan> VIRI, <hi>D. D.</hi> HUGONIS DALRYMPLE de <hi>Northberwick,</hi>
+            </p>
+            <p>Inclitae <hi>FAC<g ref="char:V">Ʋ</g>LTATIS J<g ref="char:V">Ʋ</g>RIDICAE</hi> DECANI:</p>
+            <p>Necnon, ex ejuſdem <hi>FAC<g ref="char:V">Ʋ</g>LTATIS</hi> Conſenſu &amp; Decreto:</p>
+            <p>Pro Advocati Munere conſequendo Publicae Diſquiſitioni ſubjicit, <hi>G<g ref="char:V">Ʋ</g>LIELM<g ref="char:V">Ʋ</g>S HALL.</hi>
+            </p>
+            <p>Ad Diem <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <hi>Julii,</hi> H. L. Q. S.</p>
+            <p>EDINBURGI. Ex Typographoeo <hi>GEORGII MOSMAN.</hi> M.DC.XCVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174434:2"/>
+            <!-- PDF PAGE 124 -->
+            <pb facs="tcp:174434:2"/>
+            <!-- PDF PAGE 124 -->
+            <p>
+               <hi>Illuſtriſſimo, Nobiliſſimo, Potentiſſimo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>; Domino</hi> D. PATRICIO Comiti de <hi>Marchmount,</hi> Vice-Comiti de <hi>Blaſſonberrie,</hi> Domino de <hi>Polwarth,</hi> Supremo Regni <hi>Scotiae</hi> Cancellario.</p>
+            <p>NECNON <hi>Clariſſimo &amp; Ampliſſimo</hi> D. D. GULIELMO HAMILTON Domino de <hi>Whitelaw</hi> Curiae Civilis in <hi>Sotia</hi> Supremae Senatori Digniſſimo.</p>
+            <p>Hoc studij Juridici Exercitium publicum Submiſſe Dedicat &amp; offert</p>
+            <closer>
+               <signed>Gulielmus Hall</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174434:3"/>
+            <!-- PDF PAGE 125 -->
+            <pb n="5" facs="tcp:174434:3"/>
+            <!-- PDF PAGE 125 -->
+            <head>
+               <hi>Diſputatio Juridica</hi> DE Rebus auctoritate Judicis Poſſidendis ſeu Vendendis.</head>
+            <p>
+               <seg rend="decorInit">C</seg>UM de <hi>miſſione in poſſeſſionem bonorum,</hi> ex ſecundo decreto Praetoris, nobis nunc ſit dicendum: quaedam neceſſario praeco<g ref="char:EOLhyphen"/>gnoſcenda ſunt, de <hi>miſſione in genere,</hi> de<g ref="char:EOLhyphen"/>que diverſis cauſis &amp; effectibus iſtius miſ<g ref="char:EOLhyphen"/>ſionis, quae lucem aliquam poſtea dicen<g ref="char:EOLhyphen"/>dis, afferre queant.</p>
+            <p>
+               <label>Theſis I.</label>
+CAuſae autem praecipuae, ex quibus in poſſeſſionem om<g ref="char:EOLhyphen"/>nium bonorum, miſſio fieri ſolet, tres ab <hi>
+                  <g ref="char:V">Ʋ</g>lpiano</hi> in. <hi>l.</hi> 1. <hi>ff. quib. ex cauſ. in poſſ. eat.</hi> recenſentur, <hi>viz.</hi> Rei ſer<g ref="char:EOLhyphen"/>vandae cauſa, Legatorum ſervandorum gratia, &amp; Ventris
+<pb n="6" facs="tcp:174434:4"/>
+               <!-- PDF PAGE 126 -->nomine. Damni enim infecti nomine ſi non caveatur, fit miſſio quidem, ſed non in omnia bona, verum in eam dun<g ref="char:EOLhyphen"/>taxat rem, de qua damnum timetur. De miſſione autem ex prima cauſa, nempe rei ſervandae, ſolummodo hic agendum eſt; quae locum praecipue habet, cum quis ſui poteſtatem non facit, neque ab alio defenditur, <hi>l.</hi> 2. <hi>pr. ff. quib. ex cauſ. in poſſ. eat.</hi> quo caſu miſſio in poſſeſſionem bonorum a praetore fieri ſolet.</p>
+            <p>
+               <label>Theſis II.</label>
+MIſſio in poſſeſſionem, eſt Juſſus Judicis ſeu Magiſtra<g ref="char:EOLhyphen"/>tus, quo Creditori, bonorum ſui debitoris, cuſto<g ref="char:EOLhyphen"/>diam tantum, atque obſervationem committit. <hi>l.</hi> 9. §. 1. <hi>l.</hi> 12. <hi>ff. quib. ex cauſ. in poſſ. eat. l.</hi> 3. §. <hi>ult. l.</hi> 10. §. 1. <hi>ff. de acq. vel. amit. poſſ.</hi> Atque haec eſt illa miſſio in poſſeſionem, quae dicitur fieri ex primo decreto, ex qua nihil niſi cuſtodiam, &amp; nudam rei detentionem accipimus: non veram poſſeſſionem, &amp; vendendi poteſtatem, quae ex ſecundo decreto competunt, <hi>l.</hi> 7. §. 1. <hi>ff. quib. ex cauſ. in poſſ. eat.</hi>
+            </p>
+            <p>
+               <label>Theſis III.</label>
+DAtur autem haec miſſio, ex primo decreto, Creditori; etiam ei cui ſub conditione debetur <hi>l.</hi> 6. <hi>pr. ff. quib. ex cauſ. in poſſ. eat. l.</hi> 11. <hi>ff. eod. quibus ll.</hi> non obſtant <hi>l.</hi> 7. §. 14. <hi>&amp; l.</hi> 14. §. 2. <hi>ff. eod.</hi> hi enim textus tantum agunt de miſſione ex ſecundo decreto; loquuntur enim de ea miſſi<g ref="char:EOLhyphen"/>one cujus effectus eſt venditio, talis autem tantum eſt miſ<g ref="char:EOLhyphen"/>ſio ex ſecundo decreto. Sed <hi>Cuj.</hi> 10. <hi>obſerv.</hi> 32. Diſtin<g ref="char:EOLhyphen"/>guit inter ipſam miſſionem &amp; ejus effectum; ita ut Creditor conditionalis mitti in poſſeſſionem poſſit, ſed non cum ef<g ref="char:EOLhyphen"/>fectu, quatenus ſi a debitore aut quovis alio impediatur,
+<pb n="7" facs="tcp:174434:4"/>
+               <!-- PDF PAGE 126 -->tamen ei non competit actio in factum, <hi>Gaed. ad l.</hi> 12. <hi>ff. de verb. ſig. &amp; bach. ad treutl. diſp.</hi> 24. <hi>th.</hi> 2. <hi>lit. A.</hi> Plures alias horum textuum afferunt reconciliationes.</p>
+            <p>
+               <label>Theſis IV.</label>
+SI plures ſint creditores, &amp; aliqui ſe mitti in poſſeſſio<g ref="char:EOLhyphen"/>nem bonorum deſideraverint; eorum poſtulatio aliis etiam prodeſſe poteſt, <hi>l.</hi> 5. §. 2. <hi>cum</hi> §. § <hi>ſeq. ffaut in poſſ. le<g ref="char:EOLhyphen"/>gat. l.</hi> 12. <hi>ff. h. t.</hi> Si nempe praeſentes intra biennium, &amp; ab<g ref="char:EOLhyphen"/>ſentes intra quadriennium, iis, qui in poſſeſſionem miſſi ſunt, debitum ſuum certum faciant; &amp; partem impenſa<g ref="char:EOLhyphen"/>rum pro rata ſufferre parati ſint. <hi>l. ult. C. h. t.</hi> Exceptis ta<g ref="char:EOLhyphen"/>men iis, qui ſcientes cum fraudatore contraxerunt: illi enim cum aliis creditoribus in partem non veniunt, <hi>l.</hi> 25. <hi>ff. h. t.</hi>
+            </p>
+            <p>
+               <label>Theſis V.</label>
+SIcut haec miſſio datur unicuique Creditori, ſic contra quoſvis debitores competit, imo contra pupillum <hi>l.</hi> 5. <hi>pr. ff. quib. ex cauſ. in poſſ. eat.</hi> Et minorem, prodigum, &amp; furioſum: ita tamen ut contra pupillum non detur, priuſquam tutores, cognati, aliive amici ad pupillum de<g ref="char:EOLhyphen"/>fendendum evocati ſint, <hi>l.</hi> 5. §. 1. <hi>ff. eod.</hi> Et miſſione facta uſque ad pubertatem ipſi alimenta ſunt praeſtanda, <hi>l.</hi> 23. <hi>pr. l. ult.</hi> §. 1. <hi>ff. h. t;</hi> Et ut contra caeteros, qui curatorum ope reguntur, agi poſſit; ita <hi>Diſt.</hi> eſt, quod aut habent curatores vel non, ſi habeant, tunc iſti curatores veldefendunt vel non, ſi non defendant, tunc ſunt removendi, &amp; alii in eo<g ref="char:EOLhyphen"/>rum locum ſunt ſubſtituendi, vel interim miſſio in bona eſt decernenda, ita ut ad ſecundum decretum non perveni<g ref="char:EOLhyphen"/>atur, niſi exigat eorum utilitas; ut venditis aliqui<g ref="char:EOLhyphen"/>bus rebus Creditores dimittantur. <hi>l.</hi> 7. §. 10, 11, 12. <hi>ff. quib. ex cauſ. in poſſ. eat.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:174434:5"/>
+               <!-- PDF PAGE 127 -->
+               <label>Theſis VI:</label>
+QUin imo ſi pater vel dominus cum quo de peculio a<g ref="char:EOLhyphen"/>gi poterat, latitet, in bonorum ejus poſſeſſionem miſ<g ref="char:EOLhyphen"/>ſio fieri poteſt, quamvis nihil ſit in peculio: Dummodo rei judicatae tempore aliquid in peculio eſſe poſſit, <hi>l.</hi> 7. §. 15. <hi>quib. ex cauſ. in poſſ. eat.</hi> At ſi certum ſit, quod nihil in peculio eſt, aut eſſe poteſt (forte quia filius aut ſervus mortuus aut manumiſſus eſt) tunc Miſſio in poſſeſſionem fieri non debet, <hi>l.</hi> 50. <hi>pr. ff. de peculio. Pacius</hi> 4. <hi>antin.</hi> 63. <hi>Don.</hi> 23. <hi>Comment.</hi> 11. <hi>Cuj. lib. quaeſt. pap. in explic. d. l.</hi> 50.</p>
+            <p>
+               <label>Theſis VII.</label>
+HAec miſſio in perſonalibus actionibus ſit in univerſa bona, <hi>l.</hi> 1. <hi>l.</hi> 2. <hi>pr.</hi> §. 1. <hi>ff. quib. ex cauſ. in poſſ. eat. l.</hi> 5. <hi>&amp; l. fin. C. h. t.</hi> Neque hoc correctum aut mutatum eſt per <hi>nov.</hi> 53. <hi>cap.</hi> 4. Non enim miſſioni, ſed diſtractio<g ref="char:EOLhyphen"/>ni modus ibi eſt impoſitus, <hi>facit, l.</hi> 6. §. 4. <hi>C. de his qui ad ec<g ref="char:EOLhyphen"/>cleſ. confug.</hi> In actione autem in rem, Actor ſolummodo mittitur in poſſeſſionem rei petitae, ſi debitor tantum ab<g ref="char:EOLhyphen"/>fuerit &amp; non defendatur; Sed ſi ex contumacia abfuerit, tunc etiam in bona ſit miſſio, <hi>l.</hi> 7. §. 16. <hi>&amp; ſe<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ff. quib. ex cauſ. in poſſ. eat.</hi>
+            </p>
+            <p>
+               <label>Theſis VIII.</label>
+UTi effectus hujus Miſſionis eſt rei cuſtodia &amp; deten<g ref="char:EOLhyphen"/>tio, <hi>l.</hi> 9. §. 1. <hi>l.</hi> 12. <hi>ff. quib. ex cauſ. in poſſ. eat. l.</hi> 3. <hi>in fine ff. de ac<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; amitt. poſſ.</hi> Ita finis eſt ut debitor taedio affectus tandem veniat reſponſurus, <hi>l.</hi> 5. <hi>pr. ff. ut in poſſ. leg.</hi> Quod ſi tamen ulterius contumax ſubſiſtat debitor, &amp;
+<pb n="9" facs="tcp:174434:5"/>
+               <!-- PDF PAGE 127 -->fraudandorum Creditorum gratia latitet, tunc elapſo juſto tempore, praetor ex ſecundo ſuo decreto mittit in poſſeſſio<g ref="char:EOLhyphen"/>nem bonorum iſtius debitoris latitantis.</p>
+            <p>
+               <label>Theſis IX.</label>
+MIſſio in poſſeſſionem ex ſecundo Decreto, eſt ſecun<g ref="char:EOLhyphen"/>dus judicis juſſus, quo bona alicujus propter ejus contumaciam, poſſideri, vendique jubet, quae ex primo Decreto tantum detinebantur, <hi>l.</hi> 7. §. 1. <hi>ff. quib. ex cauſ. in poſſ. eat. l.</hi> 7. <hi>pr. &amp; l.</hi> 15. §. 16. <hi>ff. de damno infect.</hi>
+            </p>
+            <p>
+               <label>Theſis X.</label>
+HAnc miſſionem concedere poteſt praetor vel Magiſta<g ref="char:EOLhyphen"/>tus major. <hi>l.</hi> 12. <hi>pr. l.</hi> 27. <hi>ff. h. t.</hi> vel etiam Manda<g ref="char:EOLhyphen"/>tarius juriſdictionis, <hi>l.</hi> 4. §. 1. <hi>ff. de off. ejus cui mand. eſt juriſd:</hi> Cum autem magis imperii ſit quam Juriſdictionis <hi>l.</hi> 4. §. 1. <hi>ff. de Juriſd.</hi> Ideo Magiſtratibus municipalibus non competit, <hi>l.</hi> 26. <hi>ff. ad municip.</hi> Et expreſſe hoc etiam affirmatur in <hi>d. l.</hi> 26. §. 1. Cui tamen non obſtat, <hi>l.</hi> 4. §. 3. <hi>ff. de damn. inf.</hi> vel enim Diſt. eſt inter miſſionem in poſſeſſio<g ref="char:EOLhyphen"/>nem ex damno infecto, &amp; inter miſſionem ex alia cauſa quae talem celeritatem non requirit, vel potius Diſt. eſt inter fa<g ref="char:EOLhyphen"/>cultatem Magiſtratui municipali ex propria Juriſdictione competentem, &amp; inter facultatem quam ex ſuperioris con<g ref="char:EOLhyphen"/>ceſſione ac delegatione habet, <hi>l.</hi> 1. <hi>&amp; l.</hi> 4. <hi>pr. ff. de damn<g ref="char:EOLhyphen"/>inf. Bach. ad Treutl. Diſp.</hi> 24. <hi>th.</hi> 1. <hi>lit. C.</hi>
+            </p>
+            <p>
+               <label>Theſis XI.</label>
+UT autem concedatur haec miſſio ex ſecundo decreto, requiritur, ut intercedat juſtum tempus ab interpoſito primo decreto, quod tempus Doctores plaerique Arbitrio
+<pb n="10" facs="tcp:174434:6"/>
+               <!-- PDF PAGE 128 -->judicis ſtatuendum relinquunt ex <hi>l.</hi> 15. §. 21. <hi>ff. de dam. in<g ref="char:EOLhyphen"/>fect. Cuj.</hi> 5. <hi>Obſer.</hi> 30. <hi>in fin.</hi> Alii vero tempus iſtud annuum conſtituunt, quia <hi>Nov.</hi> 53. <hi>cap.</hi> 4. §. 1. Si Debitor revertat &amp; appareat praeſtita cautione, poteſt res ſuas recuperare, &amp; <hi>l.</hi> 8. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 3. <hi>C. de praeſcrip.</hi> 30. <hi>vel</hi> 40. <hi>ann.</hi> datur annus ad re<g ref="char:EOLhyphen"/>vertendum, ut debitor rerum ſuarum poſſeſſionem recupe<g ref="char:EOLhyphen"/>rare queat, <hi>vid. bach. diſp.</hi> 24. <hi>th.</hi> 3. <hi>lit. C.</hi>
+            </p>
+            <p>
+               <label>Theſis XII.</label>
+SIigitur ante interpoſitum ſecundum decretum appa<g ref="char:EOLhyphen"/>reat debitor, tunc res ipſa cum fructibus ei reſtituenda eſt, modo tamen reſtituat impenſas a Creditore, ſine dolo malo factas, <hi>l.</hi> 9. §. 2. <hi>&amp;</hi> 4. <hi>ff. h. t.</hi> Et caveat de judicio ſiſtendo, &amp; lite ſuſcipienda, <hi>l.</hi> 8.. 3. <hi>C. de praeſcrip.</hi> 30. <hi>vel.</hi> 40. <hi>ann. Auth.</hi> &amp; qui jurant, <hi>C. h. t. Nov.</hi> 53. <hi>cap.</hi> 4. §. 1. <hi>in fine.</hi>
+            </p>
+            <p>
+               <label>Theſis XIII.</label>
+SEcundi decreti interpoſiti, praecipui effectus ſunt vera Poſſeſſio &amp; Venditio, <hi>l.</hi> 7. §. 1. <hi>ff. quib. ex cauſ. in poſſ. eat.</hi> Ex poſſeſſione fluit, quod Creditores fructus ejecto debitore lucrentur. <hi>l.</hi> 15. §. 23. <hi>ff. de dam. infect.</hi> Et quod per longam poſſeſſionem uſucapere poſſint, <hi>l.</hi> 3. §. <hi>ult. ff. de acq. &amp; amit. poſſ.</hi>
+            </p>
+            <p>
+               <label>Theſis XIV.</label>
+SIigitur adhuc debitor in contumacia ſua perſiſtat, ne<g ref="char:EOLhyphen"/>que ex miſſione omnino commoveatur, tunc praetor bona diſtrahi jubet, ut ex ea diſtractione omnibus credito<g ref="char:EOLhyphen"/>ribus pro rata portione conſuli poſſit, ſi modo ejuſdem ſint tituli, &amp; aeque privilegiati, <hi>l.</hi> 6. <hi>in fin. &amp; l.</hi> 9. <hi>in fin. C. h. t.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:174434:6"/>
+               <!-- PDF PAGE 128 -->
+               <label>Theſis XV.</label>
+IBi autem venditio illa eſt facienda, ubi quiſque defendi debet, <hi>l.</hi> 1.2. <hi>&amp;</hi> 3. <hi>ff. h. t.</hi> ſcil. Vel in domicilio vel loco contractus; per locum contractus intelligitur iſte locus, in quo, per contractum, ſolutio eſt facienda, <hi>d, ll.</hi> Jus hujus venditionis regulariter ipſis creditoribus competit, in quo<g ref="char:EOLhyphen"/>rum nempe fraudem latitat debitor <hi>l.</hi> 7. §. 7. <hi>&amp;</hi> 13. <hi>in fin. ff. quib. ex cauſ: in poſſ. eat.</hi> Etiam competit Curatori ad id, vel ab ipſis Creditoribus Electo, vel ipſis petentibus a Magi<g ref="char:EOLhyphen"/>ſtratu conſtituto <hi>l.</hi> 9. <hi>ff. de curat. furioſ. l.</hi> 2. <hi>pr.</hi> §. 1. <hi>ff. de cur. bonis dand.</hi> quo caſu ſoli curatori (non Creditoribus) jus di<g ref="char:EOLhyphen"/>ſtractionis competit, <hi>d. l.</hi> 9. <hi>ff. de cur. fur.</hi>
+            </p>
+            <p>
+               <label>Theſis XVI.</label>
+DIſtrahuntur ea bona omnibus emere volentibus, ita tamen ut extraneo praeferatur cognatus, &amp; cognato Creditor, &amp; inter Creditores praeferendus eſt is cui major pecunia debetur, <hi>l.</hi> 16. <hi>ff. h. t.</hi> Et regulariter omnia bona in ea diſtractione veniunt, etiam uſus fructus <hi>l.</hi> 8. <hi>pr. ff. h. t.</hi> quae<g ref="char:EOLhyphen"/>dam tamen ſunt exceptiones, ſtatuae enim in honorem debi<g ref="char:EOLhyphen"/>toris poſitae non veniunt, <hi>l.</hi> 29. <hi>ff. h. t.</hi> ſicut nec concubina debitoris, nec liberi ejus naturales, <hi>l.</hi> 38. <hi>pr. ff. h. t.</hi> Sic nec feudum alienari poteſt niſi permittente Domino, 2 <hi>feud.</hi> 12. quamvis fructus &amp; commoditates iſtius feudi du<g ref="char:EOLhyphen"/>rante vita vaſſalli vendi poſſunt. <hi>Gaill.</hi> 1 <hi>Obſerv.</hi> 117. <hi>n.</hi> 7.</p>
+            <p>
+               <label>Theſis XVII.</label>
+EFfectus iſtius diſtractionis quoad Creditores eſt, ut pre<g ref="char:EOLhyphen"/>tio ex bonis debitoris redacto, omnibus Creditoribus pro rata portione conſulatur, <hi>l.</hi> 6. <hi>in fin. C. h. t.</hi> dimiſſis au<g ref="char:EOLhyphen"/>tem
+<pb n="12" facs="tcp:174434:7"/>
+               <!-- PDF PAGE 129 -->Creditoribus omnibus, ſi aliquid de Pretio reliquum ſit, id ei cujus bona vendita ſunt regulariter non eſt red<g ref="char:EOLhyphen"/>dendum, <hi>Arg. l.</hi> 7. §. 11. <hi>ff. quib. ex cauſ. in poſſ. eat. &amp; ll ult.</hi> §. 1. <hi>C. h. t.</hi> excipiuntur tamen furioſi, <hi>d. l.</hi> 7. §. 11. prodigi, <hi>d. l.</hi> 7. §. 12. pupilli, <hi>l.</hi> 6. <hi>pr. ff. h. t. &amp;</hi> minores, <hi>l. ult, in fin. C. de repud. vel abſtin. haered.</hi> Effectus reſpectu de<g ref="char:EOLhyphen"/>bitoris eſt, quod ſi Creditores, ex pretio rerum venditarum, ſolidum ſint conſequuti, tunc liberatur debitor: Alioquin non liberatur, <hi>arg. l.</hi> 1. <hi>C. qui. bon. ced. poſſ.</hi>
+            </p>
+            <div type="list_of_corollaries">
+               <list>
+                  <head>COROLLARIA.</head>
+                  <item>NON reſcinditur tranſactio propter laeſionem ultra di<g ref="char:EOLhyphen"/>midium.</item>
+                  <item>
+                     <hi>II.</hi> Emptori haereditatis jus accreſcendi competit.</item>
+                  <item>
+                     <hi>III.</hi> Filiusfamilias de bonis adventitiis plenis teſtari nequit.</item>
+                  <item>
+                     <hi>IV.</hi> Si mulier de beneficio ſibi, ex ſenatus conſulto Velleiano compe<g ref="char:EOLhyphen"/>tente, certior facta, &amp; de vi SCTI edocta, ei renuncia<g ref="char:EOLhyphen"/>verit, ceſſat SCT um.</item>
+                  <item>
+                     <hi>V.</hi> Promiſſor facti, ad factum praeciſe faciendum, compelli non poteſt.</item>
+                  <item>
+                     <hi>VI.</hi> Vim vi repellere licet, adhibito moderamine inculpatae tutelae.</item>
+                  <item>
+                     <hi>VII.</hi> Creditor invitus non tenetur per partes ſolutionem admittere.</item>
+                  <item>
+                     <hi>VIII.</hi> Sola cogitatione furtum fieri nequit.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
